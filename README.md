@@ -29,29 +29,29 @@ Asegúrate de tener los siguientes requisitos previos instalados en tu entorno d
 2. Navega al directorio del repositorio:
 
    ```bash
-Copy code
-cd property-registry
+    Copy code
+    cd property-registry
 
 3. Instala las dependencias del proyecto:
 
    ```bash
-Copy code
-npm install
+    Copy code
+    npm install
 
 #Uso
 
 1. Inicia una instancia local de Ethereum con Hardhat:
 
     ```bash
-Copy code
-npx hardhat node
+    Copy code
+    npx hardhat node
 
 
 2. Ejecuta las pruebas:
 
     ```bash
-Copy code
-npx hardhat test
+    Copy code
+    npx hardhat test
 
 Esto ejecutará las pruebas definidas en el directorio test y mostrará los resultados en la consola.
 
