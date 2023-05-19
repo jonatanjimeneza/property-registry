@@ -24,19 +24,15 @@ Asegúrate de tener los siguientes requisitos previos instalados en tu entorno d
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-usuario/property-registry.git
+   git clone https://github.com/jonatanjimeneza/property-registry.git
 
-2. Navega al directorio del repositorio:
 
-   ```bash
-    cd property-registry
-
-3. Instala las dependencias del proyecto:
+2. Instala las dependencias del proyecto:
 
    ```bash
     npm install
 
-#Uso
+# Uso
 
 1. Inicia una instancia local de Ethereum con Hardhat:
 
